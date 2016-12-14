@@ -1,6 +1,6 @@
 <?php
 
-$search_keyword = "keyword"; 			// search Keyword
+$search_keyword = "keyword"; 				// search Keyword
 $table_array = ['',''];					// table names in array format
 php_search_all_database($search_keyword, $table_array); // call this Awesomme function
 
